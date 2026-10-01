@@ -1,26 +1,107 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/*
+ * Brand tokens — Tailwind v4 reads custom colors from this @theme block, so
+ * classes like bg-navy-900 or text-gold-500 exist exactly as written below.
+ *
+ * Palette: deep navy (authority), warm slate (body text), clean white,
+ * muted gold (accents and CTAs), and a restrained Canadian red used only as
+ * a fine accent line — never as a surface colour.
+ */
+@theme {
+  --color-navy-950: #081528;
+  --color-navy-900: #0b1d38;
+  --color-navy-800: #10294d;
+  --color-navy-700: #173766;
+  --color-navy-600: #1f4682;
+  --color-navy-300: #a9bdd9;
+  --color-navy-200: #c7d4e6;
+  --color-navy-100: #dde6f2;
+  --color-navy-50: #f0f4fa;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --color-gold-600: #a8863a;
+  --color-gold-500: #c2a04f;
+  --color-gold-400: #d4b76f;
+  --color-gold-200: #e9dcb8;
+  --color-gold-100: #f4ecd9;
+  --color-gold-50: #faf6ec;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-maple-600: #b3202e;
+  --color-maple-500: #c8313f;
+
+  --font-serif: var(--font-playfair);
+  --font-sans: var(--font-inter);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-inter), system-ui, sans-serif;
+  color: #334155; /* slate-700 */
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Headings carry the serif voice site-wide. */
+h1, h2, h3, .font-display {
+  font-family: var(--font-playfair), Georgia, serif;
+}
+
+/* ─── Small shared primitives ─────────────────────────────────────────── */
+
+/* Primary call-to-action: gold on navy contexts, navy on light contexts. */
+.btn-gold {
+  @apply inline-flex items-center justify-center gap-2 rounded-md bg-gold-500
+    px-6 py-3 text-sm font-semibold tracking-wide text-navy-950 transition
+    hover:bg-gold-400 focus-visible:outline-2 focus-visible:outline-offset-2
+    focus-visible:outline-gold-500;
+  font-family: var(--font-inter);
+}
+
+.btn-navy {
+  @apply inline-flex items-center justify-center gap-2 rounded-md bg-navy-800
+    px-6 py-3 text-sm font-semibold tracking-wide text-white transition
+    hover:bg-navy-700 focus-visible:outline-2 focus-visible:outline-offset-2
+    focus-visible:outline-navy-700;
+  font-family: var(--font-inter);
+}
+
+.btn-outline {
+  @apply inline-flex items-center justify-center gap-2 rounded-md border
+    border-navy-200 px-6 py-3 text-sm font-semibold tracking-wide
+    text-navy-800 transition hover:border-navy-800 hover:bg-navy-50;
+  font-family: var(--font-inter);
+}
+
+/* The thin red-white-red rule used as a quiet Canadian signature. */
+.maple-rule {
+  background: linear-gradient(
+    to right,
+    var(--color-maple-600) 0 32px,
+    var(--color-gold-500) 32px 64px,
+    var(--color-maple-600) 64px 96px
+  );
+  height: 3px;
+  width: 96px;
+  border-radius: 2px;
+}
+
+/* Admin form controls — defined once so every editor looks identical. */
+.field {
+  @apply w-full rounded-md border border-slate-300 bg-white px-3 py-2 text-sm
+    text-slate-800 shadow-sm transition placeholder:text-slate-400
+    focus:border-navy-600 focus:outline-none focus:ring-2 focus:ring-navy-100;
+}
+
+.field-label {
+  @apply mb-1.5 block text-xs font-semibold uppercase tracking-wider
+    text-slate-500;
+  font-family: var(--font-inter);
+}
+
+/* Soft entrance for page sections. */
+@keyframes rise {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: none; }
+}
+.animate-rise {
+  animation: rise 0.55s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
