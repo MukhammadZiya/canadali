@@ -1,0 +1,522 @@
+{
+  "profile": {
+    "name": "Alexandra Carter",
+    "title": "Canadian Immigration Lawyer",
+    "credentials": [
+      "Barrister & Solicitor, Law Society of Ontario",
+      "Member, Canadian Bar Association — Immigration Law Section",
+      "Regulated Canadian Immigration Consultant (RCIC) supervision practice",
+      "J.D., Osgoode Hall Law School · B.A., University of British Columbia"
+    ],
+    "bio": "For over twelve years I have helped individuals, families and businesses navigate Canada's immigration system — from first study permits to citizenship ceremonies. My practice is built on a simple idea: immigration is not paperwork, it is a person's life changing direction.\n\nBefore founding this practice I served as counsel at a national immigration firm in Toronto, where I managed Express Entry, Provincial Nominee and family sponsorship files for clients from more than forty countries. I appear regularly before the Immigration and Refugee Board and have successfully represented clients in judicial review at the Federal Court.",
+    "philosophy": "Every file in this office is handled the way I would want my own family's case handled: honestly assessed, meticulously prepared, and communicated in plain language. If your case is weak, I will tell you before you spend a dollar. If it is strong, I will fight to keep it that way.",
+    "photoUrl": "",
+    "phone": "+1 (416) 555-0148",
+    "email": "consult@carterimmigration.ca",
+    "address": "Suite 1400, 25 Adelaide Street East, Toronto, ON M5C 3A1",
+    "social": {
+      "linkedin": "https://linkedin.com/in/alexandra-carter-law",
+      "youtube": "https://youtube.com/@carterimmigration",
+      "twitter": "https://x.com/carterimmlaw",
+      "instagram": "https://instagram.com/carterimmigration"
+    },
+    "stats": [
+      {
+        "value": "12+",
+        "label": "Years of practice"
+      },
+      {
+        "value": "1,900+",
+        "label": "Cases completed"
+      },
+      {
+        "value": "97%",
+        "label": "Approval rate"
+      },
+      {
+        "value": "40+",
+        "label": "Countries served"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "id": "st-1",
+      "name": "Rustam A.",
+      "visaType": "Express Entry — PR",
+      "country": "Uzbekistan",
+      "year": "2026",
+      "summary": "Software engineer with CRS 471. We restructured his work-history evidence, reclaimed 22 points through a corrected NOC match and French test results, and he received an ITA in the third draw after submission. PR confirmed in 5 months.",
+      "quote": "Alexandra told me on day one exactly which points I was leaving on the table. Everything happened the way she said it would.",
+      "published": true
+    },
+    {
+      "id": "st-2",
+      "name": "Mei L.",
+      "visaType": "Study Permit",
+      "country": "China",
+      "year": "2025",
+      "summary": "Refused twice before coming to us on dual-intent concerns. We rebuilt the study plan, documented ties and financing properly, and the third application was approved in 4 weeks — in time for the September intake at UBC.",
+      "quote": "After two refusals I had lost hope. The difference was night and day — the application finally told my real story.",
+      "published": true
+    },
+    {
+      "id": "st-3",
+      "name": "Daniel & Priya O.",
+      "visaType": "Spousal Sponsorship",
+      "country": "India",
+      "year": "2025",
+      "summary": "Outland sponsorship with a complicated travel history and a previous misrepresentation flag from a prior consultant's error. Full disclosure strategy with legal submissions; approved without an interview in 11 months.",
+      "quote": "We were terrified the old mistake would follow us forever. Alexandra faced it head-on instead of hiding it — and it worked.",
+      "published": true
+    },
+    {
+      "id": "st-4",
+      "name": "Tomas K.",
+      "visaType": "Work Permit — LMIA",
+      "country": "Slovakia",
+      "year": "2026",
+      "summary": "Welding supervisor recruited by an Alberta fabricator. We guided the employer through a clean LMIA, prepared the work permit application in parallel, and Tomas landed 9 weeks after the job offer was signed.",
+      "quote": "My employer had never hired from abroad. Her office handled both sides so smoothly it felt like one team.",
+      "published": true
+    },
+    {
+      "id": "st-5",
+      "name": "Fatima H.",
+      "visaType": "Provincial Nominee — OINP",
+      "country": "Pakistan",
+      "year": "2024",
+      "summary": "Registered nurse nominated under Ontario's Human Capital Priorities stream. We aligned her licensing timeline with the nomination, then completed PR through Express Entry with the 600-point nomination bonus.",
+      "quote": "Three other consultants told me to wait a year. Alexandra found a stream that wanted me right now.",
+      "published": true
+    },
+    {
+      "id": "st-6",
+      "name": "The Nakamura family",
+      "visaType": "Permanent Residence — Family",
+      "country": "Japan",
+      "year": "2024",
+      "summary": "Parents and grandparents program with a super visa bridge so the family could be together while the PGP application processed. Both grandparents are now permanent residents living in Vancouver.",
+      "quote": "She planned two years ahead so my parents never had to leave. That foresight is why we recommend her to everyone.",
+      "published": true
+    }
+  ],
+  "news": [
+    {
+      "id": "n-1",
+      "slug": "express-entry-category-draws-2026",
+      "title": "Express Entry in 2026: category-based draws are now the main road in",
+      "category": "Express Entry",
+      "date": "2026-09-18",
+      "excerpt": "General draws have become rare and cut-offs stay high. The real opportunities now sit in category-based rounds — French, healthcare, trades and STEM. Here is how to position your profile for them.",
+      "content": "If you are still waiting for a general Express Entry draw with a CRS in the low 500s, you are playing last year's game. Through 2026 IRCC has leaned almost entirely on category-based selection, and the pattern is consistent: French-language proficiency rounds with cut-offs far below the general pool, followed by healthcare, skilled trades and selected STEM occupations.\n\nWhat this means practically:\n\n1. French is the single highest-leverage investment in the pool. Candidates reaching NCLC 7 have seen invitations at scores general draws have not touched in two years.\n\n2. Your NOC code is strategy, not paperwork. Many candidates qualify under more than one occupation; choosing the one that sits inside a draw category can matter more than 20 CRS points.\n\n3. Keep your profile honest but complete. Category eligibility is assessed from the work-history details you enter — vague job duties silently disqualify profiles from rounds they should have been in.\n\nIf your score has been stuck, a category audit of your profile is usually more productive than chasing a handful of CRS points.",
+      "published": true
+    },
+    {
+      "id": "n-2",
+      "slug": "study-permit-caps-what-applicants-must-know",
+      "title": "Study permit caps: what serious applicants must do differently",
+      "category": "Study Permits",
+      "date": "2026-08-30",
+      "excerpt": "Provincial attestation letters, tighter financial thresholds and real scrutiny of study plans — the cap era rewards applicants who prepare like professionals.",
+      "content": "The intake caps introduced in 2024 have permanently changed study permit practice. Approval is no longer mostly about funds; it is about coherence.\n\nThree things now decide most files:\n\n1. The provincial attestation letter (PAL). Your institution handles allocation, but timing matters — programs at popular DLIs exhaust quota early, and a late PAL can cost you a semester.\n\n2. The study plan has become a legal document. Officers read it against your academic history, your home-country options, and your finances. A generic template is the fastest route to a refusal under dual intent.\n\n3. Financial evidence must show provenance, not just a balance. Six months of history, named sponsors with their own documentation, and a clear tuition plan beat a large unexplained deposit every time.\n\nRefused once? Do not simply reapply with the same package. Order the officer's notes (GCMS), answer the actual concern, and only then refile.",
+      "published": true
+    },
+    {
+      "id": "n-3",
+      "slug": "pgwp-rules-tightened-field-of-study",
+      "title": "PGWP eligibility now follows your field of study — check before you enrol",
+      "category": "Work Permits",
+      "date": "2026-07-22",
+      "excerpt": "Post-graduation work permits are no longer automatic for every program. Field-of-study requirements mean your program choice is now an immigration decision.",
+      "content": "For years the post-graduation work permit was the default bridge from classroom to permanent residence. That bridge now has an eligibility gate: graduates of many college programs must be in fields linked to long-term shortages — health care, STEM, trades, agriculture and early childhood education among them.\n\nBefore you accept an offer of admission, verify three things:\n\n1. Whether your specific CIP program code appears on the current PGWP-eligible list — not the program's marketing name, the code.\n\n2. Whether your institution type affects duration. University bachelor's, master's and doctoral graduates retain broader eligibility; college certificate programs face the field-of-study test.\n\n3. Your language scores. CLB 7 for university graduates and CLB 5 for college graduates are now baseline PGWP requirements, tested at application time — not graduation time.\n\nWe increasingly see students discover these rules in their final semester, when nothing can be fixed. The time to design your PGWP strategy is before you choose the program, not after.",
+      "published": true
+    },
+    {
+      "id": "n-4",
+      "slug": "spousal-open-work-permit-processing-update",
+      "title": "IRCC processing times: where files are actually moving this quarter",
+      "category": "IRCC Updates",
+      "date": "2026-06-10",
+      "excerpt": "Official published times tell you averages. Here is what we are seeing on real files across spousal sponsorship, citizenship and inland work permits — and how to keep your file out of the slow lane.",
+      "content": "Published processing times are averages across every file, including the messy ones. On clean, complete files our office is currently seeing:\n\n— Outland spousal sponsorship: 10–13 months, with interview waivers increasingly common on well-documented genuine relationships.\n\n— Inland spousal with open work permit: OWP approvals at 3–5 months, which keeps the applicant working while PR processes.\n\n— Citizenship grants: 9–12 months from application to oath, with the online test typically 4–6 months in.\n\n— Express Entry PR after ITA: still close to the 6-month service standard when medicals and police certificates are submitted up front.\n\nThe single biggest cause of delay remains the same: incomplete first submissions. A file returned for a missing document does not join the queue where it left — it starts again. The second: unreported address or family-composition changes mid-process, which quietly freeze files for months.\n\nIf your application is outside normal times, a webform follow-up, an ATIP request for officer notes, and — where justified — a writ of mandamus are the escalation ladder, in that order.",
+      "published": true
+    }
+  ],
+  "consultation": {
+    "intro": "Every engagement begins with a consultation. It is a working session, not a sales call: you leave with a written assessment of your options, the risks I see, and exact next steps — whether or not you retain the firm.",
+    "packages": [
+      {
+        "id": "pk-1",
+        "name": "Initial Consultation",
+        "price": "$250 CAD",
+        "duration": "45 minutes · video or in-office",
+        "description": "A full assessment of your situation with a lawyer — not an intake assistant. Credited toward your retainer if you proceed within 30 days.",
+        "features": [
+          "Review of your documents before the call",
+          "Eligibility assessment across all viable programs",
+          "Honest risk evaluation, including reasons not to apply",
+          "Written summary with recommended pathway"
+        ],
+        "highlighted": false
+      },
+      {
+        "id": "pk-2",
+        "name": "Strategy Session",
+        "price": "$450 CAD",
+        "duration": "90 minutes · video or in-office",
+        "description": "For complex situations: previous refusals, misrepresentation concerns, inadmissibility, or multi-step plans spanning several years.",
+        "features": [
+          "Everything in the Initial Consultation",
+          "GCMS / officer-notes review where available",
+          "Multi-year pathway planning (study → work → PR)",
+          "Follow-up email questions for 14 days"
+        ],
+        "highlighted": true
+      },
+      {
+        "id": "pk-3",
+        "name": "File Review",
+        "price": "$350 CAD",
+        "duration": "Document review + 30-minute debrief",
+        "description": "You or your consultant prepared an application — I review it before submission and tell you what an officer will see.",
+        "features": [
+          "Page-by-page review of the complete package",
+          "Written list of deficiencies and fixes",
+          "Refusal-risk opinion",
+          "Debrief call to walk through corrections"
+        ],
+        "highlighted": false
+      }
+    ],
+    "expectations": [
+      {
+        "title": "Before we meet",
+        "body": "You receive a short intake form and a secure upload link. Send what you have — refusal letters, old applications, test results. I read everything before the call; we do not spend your paid time on background."
+      },
+      {
+        "title": "During the consultation",
+        "body": "We go through your eligibility, the programs that fit, realistic timelines and costs, and the weaknesses an officer would flag. You can ask anything; plain answers are the point."
+      },
+      {
+        "title": "After the consultation",
+        "body": "Within one business day you receive a written summary: recommended pathway, documents to gather, and a fixed-fee quote if you want the firm to act. No obligation and no follow-up pressure."
+      }
+    ],
+    "availabilityNote": "Consultations are available Monday to Friday, 9:00–18:00 Eastern, with Saturday slots twice a month. Current booking lead time is approximately one week."
+  },
+  "inquiries": [],
+  "analytics": {
+    "pageTotals": {
+      "/": 2780,
+      "/consultation": 1404,
+      "/news": 1121,
+      "/success-stories": 933,
+      "/news/express-entry-category-draws-2026": 395
+    },
+    "dailyViews": [
+      {
+        "date": "2026-08-03",
+        "views": 98,
+        "visitors": 56
+      },
+      {
+        "date": "2026-08-04",
+        "views": 88,
+        "visitors": 62
+      },
+      {
+        "date": "2026-08-05",
+        "views": 102,
+        "visitors": 57
+      },
+      {
+        "date": "2026-08-06",
+        "views": 126,
+        "visitors": 74
+      },
+      {
+        "date": "2026-08-07",
+        "views": 120,
+        "visitors": 75
+      },
+      {
+        "date": "2026-08-08",
+        "views": 48,
+        "visitors": 29
+      },
+      {
+        "date": "2026-08-09",
+        "views": 42,
+        "visitors": 24
+      },
+      {
+        "date": "2026-08-10",
+        "views": 110,
+        "visitors": 66
+      },
+      {
+        "date": "2026-08-11",
+        "views": 90,
+        "visitors": 51
+      },
+      {
+        "date": "2026-08-12",
+        "views": 118,
+        "visitors": 77
+      },
+      {
+        "date": "2026-08-13",
+        "views": 120,
+        "visitors": 75
+      },
+      {
+        "date": "2026-08-14",
+        "views": 126,
+        "visitors": 83
+      },
+      {
+        "date": "2026-08-15",
+        "views": 67,
+        "visitors": 38
+      },
+      {
+        "date": "2026-08-16",
+        "views": 81,
+        "visitors": 47
+      },
+      {
+        "date": "2026-08-17",
+        "views": 128,
+        "visitors": 87
+      },
+      {
+        "date": "2026-08-18",
+        "views": 108,
+        "visitors": 66
+      },
+      {
+        "date": "2026-08-19",
+        "views": 96,
+        "visitors": 64
+      },
+      {
+        "date": "2026-08-20",
+        "views": 109,
+        "visitors": 61
+      },
+      {
+        "date": "2026-08-21",
+        "views": 112,
+        "visitors": 72
+      },
+      {
+        "date": "2026-08-22",
+        "views": 76,
+        "visitors": 43
+      },
+      {
+        "date": "2026-08-23",
+        "views": 76,
+        "visitors": 47
+      },
+      {
+        "date": "2026-08-24",
+        "views": 136,
+        "visitors": 86
+      },
+      {
+        "date": "2026-08-25",
+        "views": 107,
+        "visitors": 62
+      },
+      {
+        "date": "2026-08-26",
+        "views": 108,
+        "visitors": 70
+      },
+      {
+        "date": "2026-08-27",
+        "views": 132,
+        "visitors": 89
+      },
+      {
+        "date": "2026-08-28",
+        "views": 130,
+        "visitors": 87
+      },
+      {
+        "date": "2026-08-29",
+        "views": 67,
+        "visitors": 45
+      },
+      {
+        "date": "2026-08-30",
+        "views": 94,
+        "visitors": 62
+      },
+      {
+        "date": "2026-08-31",
+        "views": 138,
+        "visitors": 95
+      },
+      {
+        "date": "2026-09-01",
+        "views": 124,
+        "visitors": 70
+      },
+      {
+        "date": "2026-09-02",
+        "views": 117,
+        "visitors": 65
+      },
+      {
+        "date": "2026-09-03",
+        "views": 138,
+        "visitors": 80
+      },
+      {
+        "date": "2026-09-04",
+        "views": 115,
+        "visitors": 79
+      },
+      {
+        "date": "2026-09-05",
+        "views": 72,
+        "visitors": 48
+      },
+      {
+        "date": "2026-09-06",
+        "views": 62,
+        "visitors": 39
+      },
+      {
+        "date": "2026-09-07",
+        "views": 120,
+        "visitors": 67
+      },
+      {
+        "date": "2026-09-08",
+        "views": 108,
+        "visitors": 73
+      },
+      {
+        "date": "2026-09-09",
+        "views": 146,
+        "visitors": 102
+      },
+      {
+        "date": "2026-09-10",
+        "views": 130,
+        "visitors": 87
+      },
+      {
+        "date": "2026-09-11",
+        "views": 129,
+        "visitors": 82
+      },
+      {
+        "date": "2026-09-12",
+        "views": 79,
+        "visitors": 48
+      },
+      {
+        "date": "2026-09-13",
+        "views": 90,
+        "visitors": 52
+      },
+      {
+        "date": "2026-09-14",
+        "views": 150,
+        "visitors": 87
+      },
+      {
+        "date": "2026-09-15",
+        "views": 125,
+        "visitors": 84
+      },
+      {
+        "date": "2026-09-16",
+        "views": 148,
+        "visitors": 89
+      },
+      {
+        "date": "2026-09-17",
+        "views": 137,
+        "visitors": 87
+      },
+      {
+        "date": "2026-09-18",
+        "views": 115,
+        "visitors": 75
+      },
+      {
+        "date": "2026-09-19",
+        "views": 91,
+        "visitors": 59
+      },
+      {
+        "date": "2026-09-20",
+        "views": 103,
+        "visitors": 57
+      },
+      {
+        "date": "2026-09-21",
+        "views": 121,
+        "visitors": 83
+      },
+      {
+        "date": "2026-09-22",
+        "views": 125,
+        "visitors": 84
+      },
+      {
+        "date": "2026-09-23",
+        "views": 117,
+        "visitors": 81
+      },
+      {
+        "date": "2026-09-24",
+        "views": 117,
+        "visitors": 76
+      },
+      {
+        "date": "2026-09-25",
+        "views": 120,
+        "visitors": 66
+      },
+      {
+        "date": "2026-09-26",
+        "views": 101,
+        "visitors": 69
+      },
+      {
+        "date": "2026-09-27",
+        "views": 110,
+        "visitors": 61
+      },
+      {
+        "date": "2026-09-28",
+        "views": 131,
+        "visitors": 89
+      },
+      {
+        "date": "2026-09-29",
+        "views": 131,
+        "visitors": 85
+      },
+      {
+        "date": "2026-09-30",
+        "views": 120,
+        "visitors": 75
+      },
+      {
+        "date": "2026-10-01",
+        "views": 189,
+        "visitors": 101
+      }
+    ],
+    "visitors": 4150,
+    "submissions": 32
+  }
+}
